@@ -1,2 +1,2 @@
 # natural-language-processing
-nltk project for market 'customers opinion
+nltk project for Restaurant 'customers opinion
